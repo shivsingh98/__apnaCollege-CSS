@@ -1,4 +1,9 @@
 h1{
-    color : #000;
-    background-color: yellow;
+    color : black; /* color name */
+    background-color: #ffff00; /* color code (hex code) */
+}
+
+button{
+    color: aqua;
+    background-color: #a19898;
 }
