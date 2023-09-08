@@ -1,12 +1,12 @@
 # __apnaCollege-CSS
 
-## CSS (Cascading Style Sheet)
+## <mark>CSS</mark> (Cascading Style Sheet)
 
-### What is CSS?
+### What is <mark>CSS</mark>?
 
 It is a language that is used to describe the <mark>style</mark> of a document.
 
-## Basic Format of CSS :
+## Basic <mark>Format</mark> of CSS : 
 
 ![CSS Format](./img/image.png)
 
@@ -55,5 +55,22 @@ Used to set the color of background
 `background-color: purple;`   
 `background-color: #ffffff;`    
 we can also use `background : #000` but not recommended for to set background color
+
+
+## Color Systems :
+
+#### Named Color
+ color = black;   
+Each browser recognizes around 140-150 named colors.    
+Eg- red, blue, pink, purple, magenta, teal etc.
+
+#### RGB 
+
+`color = rgb(0,0,0);`   
+Red Green Blue (0-255)   
+black is rgb(255, 0, 0)    
+red is rgb(0, 0, 0)    
+blue is rgb(0, 0, 255)    
+yellow is rgb(255, 255, 0)    
 
 

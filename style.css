@@ -1,9 +1,25 @@
-h1{
+/* h1{
     color : black; /* color name */
-    background-color: #ffff00; /* color code (hex code) */
+   /* background-color: #ffff00; */ /* color code (hex code) */
+/* }*/ 
+
+/*button{
+    color: aqua;
+    background-color: #a19898;
+} */
+
+/* Question 1  */
+
+h2{
+    color: orange;
+}
+
+p{
+    color: #fff;
+    background-color: #000;
 }
 
 button{
-    color: aqua;
-    background-color: #a19898;
+    color: #fff;
+    background-color: blue;
 }
