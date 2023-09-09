@@ -74,3 +74,10 @@ blue is rgb(0, 0, 255)
 yellow is rgb(255, 255, 0)    
 
 
+#### Hexadecimal or Hex
+
+`color = #ffffff`   
+`color = #fff`   we can also write like this       
+`color = #ffa511`
+
+Letters: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F (Number System) => base 16
